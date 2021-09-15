@@ -1,1 +1,2 @@
 # hangman
+jetbrains academy project
